@@ -7,7 +7,7 @@
 * <img src="resources/images/logo/selenium.png" height="20" width="20" align="center">**Selenium** - Инструмент для автоматизации тестирования веб-приложений, который позволяет создавать и запускать тесты для веб-интерфейсов.
 * <img src="resources/images/logo/selene.png" height="25" width="25" align="center">**Selene** - Удобный инструмент на Python для автоматизации тестирования, который облегчает написание и поддержку тестовых сценариев.
 * <img src="resources/images/logo/python.svg" height="25" width="25" align="center">**Python** - Язык программирования, используемый для написания автоматизированных тестов, особенно в области веб-тестирования.
-* <img src="resources/images/logo/allure.svg" height="25" width="25" align="center">**Allure** - Фреймворк для создания стильных и информативных отчетов по результатам автоматизированных тестов.
+* <img src="resources/images/logo/Allure.svg" height="25" width="25" align="center">**Allure** - Фреймворк для создания стильных и информативных отчетов по результатам автоматизированных тестов.
 * <img src="resources/images/logo/Allure_TO.svg" height="25" width="25" align="center">**Allure TestOps** - Платформа для управления тестами, где можно анализировать, отслеживать и организовывать результаты автоматизированных тестов.
 * <img src="resources/images/logo/GitHub.svg" height="25" width="25" align="center">**GitHub** - Платформа для хранения и управления исходным кодом проекта, включая автоматизированные тесты.
 * <img src="resources/images/logo/selenoid.png" height="25" width="25" align="center">**Selenoid** - Контейнеризированный браузерный фреймворк для запуска автоматизированных тестов в изолированных средах.
