@@ -1,4 +1,4 @@
-<img src="resources/images/logo/name.gif">
+<img align="center" src="resources/images/logo/name.gif">
 
 <h1 align="center">Немного обо мне <br>↓</h1>
 
