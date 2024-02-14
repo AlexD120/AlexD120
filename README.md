@@ -31,9 +31,3 @@
     <img width="800" height="auto" align="center" alt="Alex" 
          src="https://github-readme-stats.vercel.app/api?username=AlexD120&show_icons=true&theme=algolia&count_private=true" />
 
-(function() {
-  const popularRepos = document.querySelector('.popular-repositories');
-  if (popularRepos) {
-    popularRepos.style.display = 'none';
-  }
-})();
