@@ -25,3 +25,9 @@
 <!--
 **AlexD120/AlexD120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p> <!-- GitHub README Stats -->
+  <a href="https://github.com/AlexD120?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=AlexD120&show_icons=true&theme=algolia&count_private=true" />
+
