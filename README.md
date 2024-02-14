@@ -28,6 +28,6 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/AlexD120?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
+    <img width="800" height="auto" align="center" alt="Alex" 
          src="https://github-readme-stats.vercel.app/api?username=AlexD120&show_icons=true&theme=algolia&count_private=true" />
 
