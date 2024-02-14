@@ -20,7 +20,7 @@
 * <img src="resources/images/logo/postman.png" width="5%" align="center">**Postman** - Инструмент для тестирования API, который упрощает отправку и проверку HTTP-запросов.
 * <img src="resources/images/logo/telegram.svg" width="4%" align="center">**Telegram** - Мессенджер для общения, который также может использоваться для уведомлений и коммуникации в командах тестирования.
 
-**Вы можете связаться со мной по электронной почте <img src="resources/images/logo/gmail.png" width="3%" align="center"> [Alexdavydov92@gmail.com] или через <img src="resources/images/logo/telegram.svg" width="3%" align="center">[Telegram](https://t.me/AlexD2609).**
+**Вы можете связаться со мной по электронной почте <img src="resources/images/logo/gmail.png" width="3%" align="center"> Alexdavydov92@gmail.com или через <img src="resources/images/logo/telegram.svg" width="3%" align="center">[Telegram](https://t.me/AlexD2609).**
 
 <!--
 **AlexD120/AlexD120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
