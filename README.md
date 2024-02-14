@@ -1,4 +1,4 @@
-<img src="resources/images/logo/name.gif" align="center" width="150%"><br><h1 align="center">Немного обо мне <br>↓</h1>
+<img src="resources/images/logo/download.gif" align="center" width="150%"><br><h1 align="center">Немного обо мне <br>↓</h1>
 
 ### Меня зовут Александр, я автотестировщик на Python.
 
