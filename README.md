@@ -24,13 +24,8 @@
 
 ### **Вы можете связаться со мной по электронной почте <img src="resources/images/logo/gmail.png" width="3%" align="center"> Alexdavydov92@gmail.com или через <img src="resources/images/logo/telegram.svg" width="3%" align="center">[Telegram](https://t.me/AlexD2609).**
 
-
-<!--
-**AlexD120/AlexD120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 </br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/AlexD120?tab=repositories">
-    <img width="600" height="auto" align="center" alt="Alex" 
+    <img width="700" height="auto" align="center" alt="Alex" 
          src="https://github-readme-stats.vercel.app/api?username=AlexD120&show_icons=true&theme=algolia&count_private=true" />
-
